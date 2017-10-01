@@ -2,5 +2,6 @@
 int main{
 	printf("Git is a version control system.");
 	printf("Git is free software.");
+	printf("Ã»Ã«²¡")£»
 	return 0;
 	}
